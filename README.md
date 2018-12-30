@@ -2,6 +2,11 @@
 
 Basic web app for seeing the comics being released each week
 
+## Short-Term TODO
+```
+- Add the abililty to search/filter to specific publisher
+- Put the scraping script on firebase functions?
+
 ## Project setup
 ```
 npm install
