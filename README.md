@@ -1,5 +1,7 @@
 # comicweek
 
+Basic web app for seeing the comics being released each week
+
 ## Project setup
 ```
 npm install
